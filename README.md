@@ -6,9 +6,7 @@ Write your own library, containing an extract from 43 important functions for yo
 Turn in files: *.c, libft.h, Makefile
 
 
-Part 1 - Libc functions
-
-You must re-code the following functions. These function do not need any external functions:
+Part 1 - Libc functions. You must re-code the following functions. These function do not need any external functions:
 
 • isalpha
 
@@ -84,9 +82,7 @@ Part 2 - Additional functions
 • ft_putnbr_fd
 
 
-Bonus part
-
-The following functions will allow you to easily use your lists.
+Bonus part. The following functions will allow you to easily use your lists.
 
 • ft_lstnew
 
