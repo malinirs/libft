@@ -5,6 +5,7 @@ Write your own library, containing an extract from 43 important functions for yo
 
 Turn in files: *.c, libft.h, Makefile
 
+
 Part 1 - Libc functions
 
 You must re-code the following functions. These function do not need any external functions:
@@ -57,6 +58,7 @@ You must also re-code the following functions, using the function “malloc”:
 
 • strdup
 
+
 Part 2 - Additional functions
 
 • ft_substr
@@ -69,7 +71,6 @@ Part 2 - Additional functions
 
 • ft_itoa
 
-
 • ft_strmapi
 
 • ft_striteri
@@ -81,6 +82,7 @@ Part 2 - Additional functions
 • ft_putendl_fd
 
 • ft_putnbr_fd
+
 
 Bonus part
 
